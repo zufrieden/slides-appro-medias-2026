@@ -10,7 +10,7 @@ Ce sujet porte sur l’UX en santé et la communication de concepts techniques o
 
 
 _Le sujet doit être en lien avec votre Travail de Bachelor, avec une composante "technique". Ce cours doit vous permettre, concrètement, de monter en puissance sur un sujet utile pour votre TB._ 
-
+ 
 ### Contexte
 
 _Pourquoi avez-vous choisi ce sujet précis ? Quels avantages pour votre TB ? En quoi c'est intéressant pour votre futur professionnel_
@@ -104,22 +104,74 @@ Ces livrables serviront de base opérationnelle pour concevoir, au moment du TB,
 
 _Quel bilan entre les attentes, les objectifs et la réalité de cette auto-formation ?_
 
+Au départ, je disposais de connaissances générales en UX/UI, design web et communication digitale, mais je manquais d’expérience spécifique en UX appliquée à la santé et en vulgarisation de concepts e-santé complexes. Je n’avais pas de méthode structurée pour concevoir une interface explicative adaptée à un public non expert, dans un contexte sensible où la confiance et la clarté sont déterminantes.
+
+Bilan : cette auto-formation m’a permis de [résumer en 2–3 lignes ce que tu as appris : ex. formalise
+
+Bilan : cette auto-formation m’a permis d’acquérir une méthode et un cadre de travail pour expliquer un concept e-santé complexe de manière simple et crédible. J’ai appris à structurer l’information, à simplifier sans déformer, et à intégrer les enjeux de confiance et de responsabilité propres au domaine de la santé. Les objectifs sont atteints, car ces apprentissages ont été transformés en livrables concrets réutilisables pendant le TB.
+
 ## Réponses aux 5 questions
 
 _Répondez aux 5 questions posées plus haut. Pour chacune d'elles, si nécessaire, complétez ou améliorez la question._
 
+1.Quels sont les principes clés de l’UX en santé à respecter pour concevoir une interface compréhensible et rassurante pour un public non expert ?
+
+Les principes essentiels sont de rendre l’information immédiatement compréhensible, de guider l’utilisateur étape par étape, et de réduire l’effort de lecture. Dans un contexte santé, il faut également privilégier un ton responsable et rassurant, et expliciter clairement le rôle et les limites du service afin d’éviter les malentendus.
+
+2.Quelles techniques de vulgarisation et de structuration de l’information permettent d’expliquer un concept e-santé complexe sans surcharger l’utilisateur ?
+
+Il est efficace de présenter l’idée générale avant les détails, d’organiser l’explication en étapes courtes, et d’afficher seulement l’information nécessaire au moment où l’utilisateur en a besoin. Des exemples simples et un schéma clair aident à rendre le concept concret, tandis qu’une FAQ permet de répondre aux questions sans surcharger le contenu principal.
+
+3.Quels éléments concrets renforcent la crédibilité et la confiance dans une interface présentant un service de santé numérique ?
+
+La confiance augmente lorsque l’interface est cohérente, claire et transparente. La crédibilité est renforcée par des preuves visibles (contexte, personnes impliquées, références) et par une manière de communiquer prudente, sans promesses excessives. Expliquer clairement le traitement des données et les limites du service est également indispensable.
+
+4.Quels risques de mauvaise compréhension doivent être anticipés, et comment les adresser par le contenu et l’interface ?
+
+Les risques principaux sont que l’utilisateur interprète le service comme un outil de diagnostic, qu’il surévalue ses capacités, ou qu’il s’inquiète de l’usage des données personnelles. Pour y répondre, il faut clarifier le périmètre du service, expliciter ce qu’il fait et ne fait pas, et intégrer des éléments de réassurance accessibles (données, sécurité, limites, questions fréquentes).
+
+5.Comment construire une structure type et une checklist réutilisable pour guider la future conception du site/prototype du TB ?
+
+Une structure type doit suivre une logique de compréhension : définition simple, bénéfices, fonctionnement, limites, puis réponses aux questions sensibles et appel à l’action. Une checklist permet ensuite de vérifier que le contenu est clair, crédible, adapté à un public non expert, et conforme aux exigences de responsabilité propres au domaine de la santé.
+
+
 ## Résultat de l'expérimentation
 _Expliquez comment s'est passé l'expérimentation, a-t-elle été formatrice ? sur quels aspects ?_
+
+L’expérimentation a consisté à produire des livrables prouvant l’acquisition des connaissances, sans réaliser un prototype final ni mener de tests utilisateurs à ce stade. Elle a abouti à une synthèse structurée, un benchmark de références pertinentes et une structure type de page explicative accompagnée de messages clés.
+
+Cette expérimentation a été formatrice car elle m’a permis de transformer des apprentissages en outils concrets. Le principal apport est d’avoir obtenu une base méthodologique directement réutilisable pendant le TB pour concevoir les pages et interfaces liées au jumeau numérique.
+
 
 ## Investissement
 
 _Détaillez le temps passé et les écarts avec l'investissement imaginé au départ, expliquez pourquoi._
 
+Temps prévu : 36 h  
+Temps réalisé : 36 h
+
+Répartition du temps :
+- Cadrage : 3 h
+- Recherche documentaire : 12 h
+- Benchmark : 8 h
+- Formalisation des méthodes et livrables : 13 h
+  
+Je me suis bien organisée dès le départ en dédiant des temps pour chaque partie de mes recherches et j'ai donc pu les respecter sans problème. La partie la plus exigeante a été la synthèse et la formalisation des résultats, car cela demande de transformer des informations en recommandations réutilisables.
+
+
 ## Réflexion sur la méthode d'auto-formation
 
 _En regard des avantages et inconvénients de l'auto-formation, qu'avez-vous constaté ?_
+
+L’auto-formation a été efficace car elle m’a permis de cibler un besoin réel du TB et d’avancer de manière autonome vers des résultats concrets. Elle demande toutefois de la rigueur pour éviter la dispersion et pour sélectionner des ressources fiables.
+
+Je retiens qu’une auto-formation est particulièrement pertinente lorsqu’elle se matérialise en livrables opérationnels qui peuvent être directement appliqués dans un projet.
 
 ## Conclusion
 
 _Quelles leçons avez-vous apprises et pourquoi ?_
 _Quelles implications pour votre TB et pourquoi ?_
+
+Cette auto-formation m’a permis d’acquérir une méthode pour expliquer un concept e-santé complexe à un public non expert, en tenant compte des enjeux de clarté, de crédibilité et de responsabilité liés au domaine de la santé. Elle me permet d’aborder le TB avec une base solide pour structurer les contenus et guider la conception des pages et interfaces liées au jumeau numérique.
+
+L’implication principale pour le TB est une meilleure capacité à concevoir des interfaces compréhensibles et rassurantes, et à justifier mes choix UX/UI et éditoriaux de manière cohérente.
